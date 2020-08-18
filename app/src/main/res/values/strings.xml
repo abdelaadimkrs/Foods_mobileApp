@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FoodApp</string>
+    <array name="des">
+        <item>
+            Put the potatoes in hot oil in a frying pan on the fire ,Leave it on the fire until it turns red and gets a golden color
+        </item>
+    </array>
+</resources>
